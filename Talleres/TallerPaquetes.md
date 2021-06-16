@@ -30,9 +30,11 @@ El modulo del paquete debe contener las funciones siguientes:
 
 Use las siguientes ecuaciones, que describen las relaciones entre temperaturas en grados Fahrenheit (TF), grados Celsius (TC), grados Kelvin (TK) y grados Rankine (TR), respectivamente:
 
-$$T_{F} = T_{R} - 459.67 \cdot °R$$
-$$T_{F} = \frac{9}{5} T_{C} + 32 \cdot °F$$
-$$T_{R} = \frac{9}{5} \cdot T_{K}$$
+$T_{F} = T_{R} - 459.67 \cdot °R$
+
+$T_{F} = \frac{9}{5} T_{C} + 32 \cdot °F$
+
+$T_{R} = \frac{9}{5} \cdot T_{K}$
 
 Necesitará reordenar estas expresiones para resolver algunos de los problemas.
 
