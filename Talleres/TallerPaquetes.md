@@ -42,9 +42,9 @@ Necesitará reordenar estas expresiones para resolver algunos de los problemas.
 
 Cuando tenga listo suba el paquete a testpypi o a pypi. Genere un proyecto en repl.it y valide su funcionamiento con un programa que permita realizar las siguientes acciones. 
 
-- generar una tabla de conversión para valores desde 0 °F hasta 200 °F.
-- generar una tabla de conversión desde 0 °C hasta 100 °C.
-- generar una tabla de conversión desde 0 °C hasta 100 °C.
+- convierta temperaturas de Fahrenheit a Kelvin, haciendo uso de su función F_to_K para generar una tabla de conversión para valores desde 0 °F hasta 200 °F.
+- convierta temperaturas en Celsius a Rankine, haciendo uso de su función C_to_R para generar una tabla de conversión desde 0 °C hasta 100 °C.
+- convierta temperaturas en Celsius a Fahrenheit, haciendo uso de su función C_to_F para generar una tabla de conversión desde 0 °C hasta 100 °C.
 
 ## Archivo a entregar
 - PDF que contenga la documentación de cómo creo el paquete (adjuntar imágenes) incluyendo la parte de publicación y validación.  
